@@ -1,0 +1,29 @@
+{
+  "name": "aff",
+  "version": "0.0.1",
+  "description": "Angular Firebase & Falcor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmurawsky/AFF.git"
+  },
+  "keywords": [
+    "Angular",
+    "Firebase",
+    "Falcor"
+  ],
+  "author": "Daniel Murawsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmurawsky/AFF/issues"
+  },
+  "homepage": "https://github.com/dmurawsky/AFF#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "falcor-express": "^0.1.2",
+    "falcor-router": "^0.2.9"
+  }
+}
